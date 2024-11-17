@@ -2,9 +2,10 @@
 
 ![MERN](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*BoZuMV2kfcjiiTDV.png)
 <div align="center">
-   <a href="mailto:speed_flores24@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=speed_flores24@hotmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
   <a href="https://www.linkedin.com/in/manuel-floresdev/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
   </a>
@@ -35,7 +36,6 @@
    ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
    ![MongoDB](https://img.shields.io/badge/MongoDB-%2307A44D.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    ![Mongoose](https://img.shields.io/badge/Mongoose-%2300B49D.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-   ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 - ### Herramientas
    ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
